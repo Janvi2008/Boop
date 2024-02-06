@@ -24,3 +24,7 @@ git remote add origin https://github.com/segunajibola/sample-code.git
 git push -u origin main
 
 git remote add origin https://github.com/janvi2008/Boop.git
+
+
+5. setup vscode for c++ programming
+https://code.visualstudio.com/docs/cpp/config-mingw
